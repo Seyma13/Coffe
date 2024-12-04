@@ -11,7 +11,9 @@ Bu proje, kahve severlerin ihtiyaçlarını karşılamak için tasarlanmış bir
 
 - **Frontend:** Html Css Js
 - **Responsive:** Mobil ve Tüm cihazlarda uyumluluk
-- **Blog Modülü:** Kahve kültürü ve demleme teknikleri üzerine içerik sağlayan bir alan.  
+- **Blog Modülü:** Kahve kültürü ve demleme teknikleri üzerine içerik sağlayan bir alan. 
+
+![(CoffeClone.gif)]
 
 ## 📞 İletişim  
 Sorularınız veya geri bildirimleriniz için bize ulaşabilirsiniz:  
